@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders/files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Dependency folders
+node_modules/
+
+# Build/output folders
+dist/
+build/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Optional
+coverage/
